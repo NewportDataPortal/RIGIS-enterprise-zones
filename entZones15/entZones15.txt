@@ -1,0 +1,487 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Census Bureau, RI Division of Planning
+      Publication_Date: 20150224
+      Title: RI Enterprise Zones (2015); entZones15
+      Geospatial_Data_Presentation_Form: vector digital data
+      Other_Citation_Details: Suggested bibliographic reference: RIGIS, 2015. U.S. RI Enterprise Zones (2015); entZones15. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 19 May 2015).
+      Online_Linkage: http://www.rigis.org
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: Rhode Island Geographic Information System (RIGIS)
+          Publication_Date: 19930101
+          Title: Rhode Island Geographic Information System (RIGIS) Data Distribution System
+          Online_Linkage: http://www.rigis.org
+  Description:
+    Abstract: Rhode Island Enterprise Zones are authorized by the Distressed Areas Economic Revitalization Act of the Rhode Island General Laws (RIGL) §42-64.3 and are limited to not more than five (5) contiguous U.S. census tracts or portions thereof. Exceptions to the five (5) census tract rule are prescribed in RIGL §42-64.3-5. The zones are delineated by U.S. census 2010 boundaries and defined under RIGL §42-64.3-5. Enterprise zone designation and re-designation are based on a number of distressed criteria including poverty, unemployment, and median household and per capita incomes. As well as non-demographic factors like economic development opportunities and potential, and defined course of action plans that including local incentives, resources and services.
+    Purpose: The Distressed Areas Economic Revitalization Act which spawned the Enterprise Zone Program was created to combat substantial and persistent levels of unemployment, blight, the spread of obsolete, dilapidated, and abandoned industrial and commercial structures and shrinking tax bases by stimulating economic revitalization, promote employment opportunities, and encourage business development and expansion in distressed areas.
+    Supplemental_Information: Enterprise Zone Designation Process: The Central Falls/Cumberland Enterprise Zone’s original designation was the result of a state wide RFP process; all subsequent re-designations were granted by the Rhode Island Enterprise Zone Council. The original designation proposal was approved in 1992; the zone was subsequently re-designated in 1996, 2001, 2006 and 2011. The zone is set to expire on December 31, 2016. The Cranston Enterprise Zone’soriginal designation was the result of a state wide RFP process, establishing the Port of Providence/Cranston Enterprise Zone; all subsequent re-designations were granted by the Rhode Island Enterprise Zone Council. The original designation proposal was approved in 1992; the zone was subsequently re-designated in 1996, 2001, 2006 and 2011. The zone is set to expire on December 31, 2016. The East Providence Enterprise Zone’soriginal designation was the result of a state wide RFP process; all subsequent re-designations were granted by the Rhode Island Enterprise Zone Council. The original designation proposal was approved in 1995; the zone was subsequently re-designated in 1999, 2004, 2009, and 2014. The zone is set to expire on December 31, 2019. The Bristol/Warren (Mt. Hope) Enterprise Zone’s original designation was the result of a state wide RFP process; all subsequent re-designations were granted by the Rhode Island Enterprise Zone Council. The original designation proposal was approved in 1993; the zone was subsequently re-designated in 1998, 2003, and 2008. The zone is set to expire on December 31, 2013The Pawtucket/Lincoln Enterprise Zone’s original designation was the result of a state wide RFP process; all subsequent re-designations were granted by the Rhode Island Enterprise Zone Council. The original designation proposal was approved in 1992; the zone was subsequently re-designated in 1996, 2001, 2006 and 2011. The zone is set to expire on December 31, 2016. ThePawtucket II Enterprise Zone’s original designation was the result of legislation submitted by the city of Pawtucket, passed by the Rhode Island General Assembly, signed in to law by the Governor and authorized by the Rhode Island Enterprise Zone Council in 2013. The zone’s designation was retroactive to January 1, 2013, as a result, the original 5-year designation expires on December 31, 2017. The Portsmouth/Tiverton Enterprise Zone’s original designation was the result of a state wide RFP process; all subsequent re-designations were granted by the Rhode Island Enterprise Zone Council. The original designation proposal was approved in 1995; the zone was subsequently re-designated in 1999, 2004, 2009, and 2014. The zone is set to expire on December 31, 2019. The Port of Providence Enterprise Zone’s original designation was the result of a state wide RFP process, establishing the Port of Providence/Cranston Enterprise Zone; all subsequent re-designations were granted by the Rhode Island Enterprise Zone Council. The original designation proposal was approved in 1992; the zone was subsequently re-designated in 1996, 2001, 2006 and 2011. The zone is set to expire on December 31, 2016. The Providence II Enterprise Zone’s original designation was the result of a state wide RFP process; all subsequent re-designations were granted by the Rhode Island Enterprise Zone Council. The original designation proposal was approved in 1993; the zone was subsequently re-designated in 1997, 2002, 2007 and 2012. The zone is set to expire on December 31, 2017.The West Warwick Enterprise Zone’s original designation was the result of a state wide RFP process; all subsequent re-designations were granted by the Rhode Island Enterprise Zone Council. The original designation proposal was approved in 1993; the zone was subsequently re-designated in 1998, 2003 and 2009. The zone is set to expire on December 31, 2013. The Woonsocket/Cumberland Enterprise Zone’s original designation was the result of a state wide RFP process; all subsequent re-designations were granted by the Rhode Island Enterprise Zone Council. The original designation proposal was approved in 1992; the zone was subsequently re-designated in 1996, 2001, 2006 and 2011. The zone is set to expire on December 31, 2016. A detailed description of each Enterprise Zone boundary can be reviewed within the 'Fields' metadata section under Field 'EZone_Name' - List of Values.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20150224
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -71.539860
+      East_Bounding_Coordinate: -71.130454
+      North_Bounding_Coordinate: 42.018859
+      South_Bounding_Coordinate: 41.537743
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Categories
+      Theme_Keyword: economy
+      Theme_Keyword: planningCadastre
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Enterprise Zones
+      Theme_Keyword: Distressed Areas Economic Revitalization Act
+      Theme_Keyword: EZ Zones
+      Theme_Keyword: RIGL §42-64.3
+      Theme_Keyword: RIGL §42-64.3-5
+  Access_Constraints: None.
+  Use_Constraints:
+    These data were created for informational, planning and guidance use only. They are a general reference, not a legally authoritative source for the location of natural or manmade features. Proper interpretation of these data may requre the assistance of appropriate professional services. The cartographic representations depicted have not been verified by a RI Registered Professional Land Surveyor and are not intended to be used in place of a survey. The producer makes no warranty, express or implied, related to the accuracy, reliability, completeness, or currentness of these data.
+    This dataset is provided 'as is.’ The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset. Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products. Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: RI Division of Planning
+        Contact_Person: Christina Delage Baza
+      Contact_Position: GIS Specialist II
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: One Capitol Hill
+        City: Providence
+        State_or_Province: RI
+        Postal_Code: 02908
+        Country: US
+      Contact_Voice_Telephone: 401-222-6481
+      Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+  Data_Set_Credit: Rhode Island Commerce Corporation; Rhode Island Division of Planning; U.S. Census Bureau; The Providence Plan
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: None provided.
+  Logical_Consistency_Report: None provided.
+  Completeness_Report: None provided.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: None provided.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: None provided.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Department of Commerce, U.S. Census Bureau, Geography Division
+          Publication_Date: 20100101
+          Title: TIGER/Line Shapefile, 2010, 2010 state, Rhode Island, 2010 Census Block State-based
+          Edition: 2010
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: http://www.census.gov/geo/www/tiger
+      Type_of_Source_Media: None
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 20100101
+            Ending_Date: 20100701
+        Source_Currentness_Reference: Extent of Rhode Island
+      Source_Citation_Abbreviation: TIGER/Line Shapefile, 2010, 2010 state, Rhode Island, 2010 Census Block State-based
+      Source_Contribution: spatial data
+    Process_Step:
+      Process_Description: The original list of Enterprise Zone (EZ) Tracts (T), Block Group (BG), and Blocks (B) were adjusted due to changes in the 2010 census geography, new legislative bills being approved, or discrepancies with the legal EZ description.  This resulted in some T/BG/B being removed or added to an EZ.  The previous EZ dataset was based on 1990 census boundaries and many boundaries have changed since then.  Legal EZ descriptions were used to determine which 2010 Census T/BG/B were used to create the 2014 EZ data update, with assistance from Commerce RI (Victor Barros) and EZ municipal contacts.
+      Process_Date: 20130108
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: Central Falls/Cumberland T-114.03 was removed as it did not constitute the Ashton/Berkley Mill Village, this area was covered by certain blocks in T-113.01.
+      Process_Date: 20130813
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: Removed blocks containing Prudence Island as well as other islands off the coast of Portsmouth.  This changed T- 401.03 to exclude BG-1, BG-3, and B-4068.
+      Process_Date: 20130814
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: Removed Census B-1033 from T-8 in the Providence II EZ as this block included the Providence Place Mall, which is excluded from this EZ.
+      Process_Date: 20130821
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: Clipped and merged portions of Providence census T-1.01, with East Providence T-105.02 as these East Providence land areas were not a part of Providence.  This change was confirmed with the Providence GIS Manager using a 1966 parcel map and confirmed with the East Providence Planner.  The Wilkes Barre Pier was determined to be a part of Providence and is a part of Census T-6 in the Port of Providence EZ.
+      Process_Date: 20130828
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: In Lincoln, Tract 117.02 was changed to only include BG-1 excluding B-1000, 1001, 1002, 1003, 1009; in order to cover a similar area to the 1990 EZ boundary which excludes Lincoln Woods from the EZ.
+      Process_Date: 20131002
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: Added the new 2013 designated Pawtucket II EZ which consists of T-153 and T-154
+      Process_Date: 20131114
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: Removed coastal waters from all EZ Census boundaries and reshaped the EZ coastal boundaries using the RIGIS 2012 Marine and Estuarine Waters dataset.  Some blocks were completely removed if solely located within coastal waters.
+      Process_Date: 20140401
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: In the Portsmouth/Tiverton EZ, BG-2 of Tract 401.01 was added after bill (H-7210) was approved.
+      Process_Date: 20140625
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: Dissolved EZ T/BG/B to create final 2014 RI Enterprise Zones dataset.  Split EZ along municipal boundary for the following EZ:  Bristol/Warren (Mt. Hope), Central Falls/Cumberland, Pawtucket/Lincoln, Portsmouth/Tiverton, and Woonsocket/Cumberland.  Calculated the City_Town attribute field accordingly.
+      Process_Date: 20140627
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: The following changes, approved by the EZ Council on 2/24/15, were made to the East Providence EZ boundary.  BG-2 of CT-107.01 was deleted while BG-1 of CT-105.01 was added.  Added area was dissolved with the surrounding E.Prov EZ.
+      Process_Date: 20150226
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: The following changes, approved by the EZ Council on 2/24/15, were made to the Portsmouth/Tiverton EZ boundary.  BG-3 of CT-401.01 and BG-1 of CT-401.02 in Portsmouth as well as CT-417.02 in Tiverton were deleted from the EZ boundary.  BG-1 of CT-401.01 (Excluding Islands) and BG-3 of CT-401.02 were added to the EZ.  Coastal waters were removed from these boundaries before being dissolved with the surrounding Portsmouth EZ boundary
+      Process_Date: 20150226
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Division of Planning
+            Contact_Person: Christina Delage Baza
+          Contact_Position: GIS Specialist II
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: One Capitol Hill
+            Address: Division of Planning - 3rd Floor
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908
+          Contact_Voice_Telephone: 401-222-6481
+          Contact_Facsimile_Telephone: 401-222-2083
+          Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+    Process_Step:
+      Process_Description: Data contributed to RIGIS by the Providence Plan. Metadata were adapted and minor updates were made to the content. RIGIS distribution information added. Primary metadata source credit is the RI Division of Planning.
+      Process_Date: 20150422
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Environmental Data Center of the Univesrity of Rhode Island
+            Contact_Person: Erica Tefft
+          Contact_Position: Research Associate
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 1 Greenhouse Road
+            City: Kingston
+            State_or_Province: RI
+            Postal_Code: 02881
+          Contact_Voice_Telephone: 401-874-5054
+          Contact_Electronic_Mail_Address: erica@edc.uri.edu
+          Contact_Instructions: email preferred.
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 16
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: NAD 1983 StatePlane Rhode Island FIPS 3800 Feet
+        Transverse_Mercator:
+          Scale_Factor_at_Central_Meridian: 0.99999375
+          Longitude_of_Central_Meridian: -71.5
+          Latitude_of_Projection_Origin: 41.08333333333334
+          False_Easting: 328083.3333333333
+          False_Northing: 0.0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000000007286382608384659
+          Ordinate_Resolution: 0.000000007286382608384659
+        Planar_Distance_Units: foot_us
+    Geodetic_Model:
+      Horizontal_Datum_Name: D North American 1983
+      Ellipsoid_Name: GRS 1980
+      Semi-major_Axis: 6378137.0
+      Denominator_of_Flattening_Ratio: 298.257222101
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: RI Enterprise Zones (2015)
+      Entity_Type_Definition: 2010 Census Block State-based
+      Entity_Type_Definition_Source: U.S. Census Bureau
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: Esri
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: Esri
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: EZone_Name
+      Attribute_Definition: Enterprise Zone name
+      Attribute_Definition_Source: Rhode Island Commerce Corporation
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Central Falls/Cumberland
+          Enumerated_Domain_Value_Definition: The Central Falls/Cumberland Enterprise Zone was designated in 1992 and later expanded to include the Ashton and Berkley Mill Villages in the town of Cumberland. The zone consists of the entire city of Central Fall (all four (4) census tracts), a census tract in the adjacent Valley Falls section of Cumberland, and the aforementioned Ashton and Berkley Mill Villages in Cumberland. The main thoroughfare connecting Central Falls and Valley Falls is Broad Street, which is a heavily traveled commercial roadway, used to move goods to and from many of the zone’s industrial businesses. The Central Falls portion of the zone encompasses the entire one (1) square mile of the city, the most densely populated municipality in the state. The city and thus the zone is nearly completely developed (98%), leaving limited land for new development. The Valley Falls section of Cumberland begins at the northern edge of Central Falls, making up the southernmost portion of Cumberland. It is approximately one (1) square mile in size and relatively flat. It borders on the west and south by the Blackstone River.
+          Enumerated_Domain_Value_Definition_Source: Central Falls Department of Planning and the Cumberland Town Planner function as the source agencies along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Cranston
+          Enumerated_Domain_Value_Definition: The Cranston Enterprise Zone was designated in 1992 as a part of the Port of Providence Enterprise Zone.  It was later expanded to include block group 1 of census tract 135; census tract 141 which includes the site of the former Narragansett Brewery; census tract 136; census tract 137.01 and block groups 1 and 2 of census tract 138. In total, the zone consists of three (3) census tracts and portions of two (2) others.  It is anchored by the former Narragansett Brewery and Fields Point sites and many commercial and industrial locations in the zone provide easy access to highways and key business areas. The zone includes the Elmwood/Wellington business corridor, the Rolfe Street Business District and Fields Point waterfront. The former Narragansett Brewery site is located between Cranston Street and Route 10 within minutes of downtown Providence and T.F. Green Airport in Warwick. It features 77 acres of fully-serviced land and a 150,000 square-foot facility. Highway access, high visibility and a mixed-use designation are some of the site’s benefits. Centrally located in the Greater Providence Trade area, the former brewery site is home to a large population - 600,000 people within a 10-mile radius – and a skilled workforce. The Fields Point site is located immediately south of the Port of Providence and is minutes from Interstate 95 and downtown Providence. The site is comprised of 27 acres of fully-serviced waterfront industrial real estate on the Cranston portion of the property and is adjacent to additional acreage at the Port of Providence.
+          Enumerated_Domain_Value_Definition_Source: Cranston Department of Economic Development functions as the source agency along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: East Providence
+          Enumerated_Domain_Value_Definition: The East Providence Enterprise Zone was designated in 1995 and later expanded to include block group 2 of census tract 107.01 to capitalize on a potential significant economic development project at the Leonardo Farm property on the Wampanoag Trail. The zone consists of five (5) census tracts and a portion of a sixth comprising roughly the western half of the city. The total land area of the zone is approximately 8.0 square miles. The zone fronts upon the city’s waterfront and several tracts reflect their historical link to waterfront activities. When originally designated in 1995 total vacancy for industrial and commercial properties within the zone were relatively high. The Leonardo Farm Project never materialized so during their 2014 zone re-designation the city asked the EZ Council to remove block group 2 of census tract 107.01 and add block group 1 of census tract 105.01 which is primarily associated with the Westminster Industrial Park, an important commercial hub in the city. The EZ Council unanimously approved the city’s proposed amendment to the zone as a part of their 2014 zone re-designation.
+          Enumerated_Domain_Value_Definition_Source: East Providence Department of Planning functions as the source agency along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Bristol/Warren (Mt Hope)
+          Enumerated_Domain_Value_Definition: The Bristol/Warren (Mt Hope) Enterprise Zone has been modified since its original designation in 1993: block group 3 of census tract 308 and block groups 2 and 3 of census tract 309.01 were added while block group 2 of census tract 309.02 was deleted. The zone contains all three (3) census tracts in Warren and one (1) census tract and portions of four (4) others in Bristol. The Bristol portion of the zone encompasses the northwest portion of the town extending north to the border with Warren, and south along the waterfront to the Mount Hope Bridge. The total land area of the zone consists of 6 square miles in Warren and 7 square miles in Bristol, for a total area of approximately 13 square miles. The zone comprises most of the industrial areas located in Rhode Island’s East Bay region of Bristol County and is centered in the towns of Bristol and Warren. Modifications to the zone’s boundaries in 1994 and 1999 added the east side of Metacom Avenue (Route 136) in Bristol.
+          Enumerated_Domain_Value_Definition_Source: Warren Town Planner and the Bristol Town Planner function as the source agencies along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Pawtucket/Lincoln
+          Enumerated_Domain_Value_Definition: The Pawtucket/Lincoln Enterprise Zone was designated in 1992 and contains four (4) contiguous census tracts in the city of Pawtucket and one (1) census tract in the town of Lincoln.There have been no substantive changes to the census tracts that make up the zone except that census tract 117.02 was re-selected to only include block group 1 – excluding blocks 1000, 1001, 1002, 1003 and 1009 to better follow the 1990 boundary, which changes the area of the census tract included.  The Pawtucket tracts are along the western boundary of the city and extend north/south across the city from the Providence line in the south to the Lincoln and Central Falls line in the north. The Pawtucket portion of the zone contains 1293 acres and makes up approximately 23% of the city’s land area. The predominant land use in Lincoln portion of the zone is commercial/industrial in nature. It is completely zoned manufacturing and is divided by Higginson Avenue. North of Higginson Avenue is a large historical mill complex spread over roughly 20 acres of land. South of Higginson Avenue consists of large industrial business complexes.
+          Enumerated_Domain_Value_Definition_Source: Pawtucket Department of Planning and the Lincoln Town Planner function as the source agencies along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Pawtucket II
+          Enumerated_Domain_Value_Definition: The Pawtucket II Enterprise Zone was designated in 2013 and consists of two (2) contiguous census tracts in the city of Pawtucket. The zone comprises the economically challenged Pleasant View neighborhood which lies in the north part of the city between Interstate 95 and George R Bennet Memorial Dr. It also has six and a half acres of developable land; one of the largest parcels in the city which can house a 85,000 to 100,000 square foot commercial building for manufacturing or industrial use.
+          Enumerated_Domain_Value_Definition_Source: Pawtucket Department of Planning functioned as the source agency along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Portsmouth/Tiverton
+          Enumerated_Domain_Value_Definition: The Portsmouth/Tiverton Enterprise Zone has been modified since its original designation in 1995: block group 1 of census tract 401.02 was added while block groups 1 and 2 of census tract 401.01 were deleted. In 2014 block group 2 of census tract 401.01 was reacquired as a part of the Portsmouth portion of the zone. The zone comprised two-thirds of Portsmouth and all of Tiverton, representing approximately 42 square miles with portions of three (3) census tracts in Portsmouth and all four (4) census tracts in Tiverton. The Portsmouth portion of the zone is one of three communities on Aquidneck Island where the major industry focus is centered on ocean sciences, maritime system development, navigational equipment, advanced thermoplastic composites, software development, luxury yacht and boat building, marine trades, and tourism. The Tiverton portion of the zone includes the proposed Tiverton Industrial Park situated on a 177-acre parcel located southeast of the intersection of Route 24 and Fish Road and the town’s burgeoning waterfront. During their 2014 zone re-designation, the towns’ requested the following changes: remove block group 3 of census tract 401.01, block group 1 of census tract 401.02 and census tract 417.02 while adding block group 1 of census tract 401.01 and block group 3 of census tract 401.02. These changes were proposed in order to re-establish the original intended geography of the zone except for the removal of census tract 417.02 in Tiverton which encompasses the southern portion of town including Four Corner, a very affluent area of town that already benefited from designation as an Arts and Entertainment District. The EZ Council unanimously approved the city’s proposed amendment to the zone as a part of their 2014 zone re-designation.
+          Enumerated_Domain_Value_Definition_Source: Portsmouth Office of Business Development and the Tiverton Town Planner function as the source agencies along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Port of Providence
+          Enumerated_Domain_Value_Definition: The Port of Providence Enterprise Zone was designated in 1992 and consists of five (5) contiguous census tracts representing an area of roughly 3.0 square miles. The land use pattern of this area is characterized by a wide range of land uses including: residential, commercial, industrial, institutional, open areas, medical facilities (Rhode Island Hospital, Women and Infants Hospital, and Hasbro Children’s Hospital) and several generating facilities of the state’s major electrical utility, National Grid.  The zone encompasses the area known as the Knowledge District (formerly the Jewelry District), 600-acre Allens Avenue industrial corridor, including the 130-acre Port of Providence and the 100-acre Huntington Industrial Park.
+          Enumerated_Domain_Value_Definition_Source: Providence Department of Planning and Development functions as the source agency along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Providence II
+          Enumerated_Domain_Value_Definition: The Providence II Enterprise Zone was designated in 1993 and was later amended to exclude the census tract blocks that house the Providence Place Mall and add blocks in census tracts 9, 12 and 37 and some blocks along Hartford Avenue, Plainfield Street and Pocasset Avenue. The zone consists of five (5) contiguous census tracts and portions of two (2) other census tracts representing an area of approximately 3.0 square miles. The land use pattern of this area is characterized by a wide range of land uses including: residential, commercial, industrial, institutional and open areas. The zone compasses the area known as the Downtown Providence, Capital Center, Olneyville Square and Promenade Center.
+          Enumerated_Domain_Value_Definition_Source: Providence Department of Planning and Development functions as the source agency along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: West Warwick
+          Enumerated_Domain_Value_Definition: The West Warwick Enterprise Zone was designated in 1993 and later expanded in 2005 to include census tract 204, which resulted in the entire town being designated as an enterprise zone; encompassing all six (6) of the town’s census tracts. The land use pattern of the town is characterized by heavily developed residential, commercial which includes mixed-uses, industrial which includes scatted mill sites and the town’s industrial park, public and semi-public which includes schools, recreational areas, public open spaces, churches and other institutions, and vacant which includes undeveloped land. The zone includes the West Warwick Industrial Park and the Arctic Business District.
+          Enumerated_Domain_Value_Definition_Source: West Warwick Town Planner functions as the source agency along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Woonsocket/Cumberland
+          Enumerated_Domain_Value_Definition: The Woonsocket/Cumberland Enterprise Zone was designated in 1992 and later expanded to include a portion of census tract 114.03 in the town of Cumberland which includes Highland II Corporate Park; a portion of the census tract 173 in the city of Woonsocket which includes the Singleton Street Mill District, and all of census tract 180 in the city of Woonsocket which includes downtown Woonsocket and the Social Street/Clinton Street commercial area. The zone consists of four (4) census tracts and a portion of a fifth in the city of Woonsocket and one (1) census tract and a portion of another in the town of Cumberland. The zone includes a multitude of mill buildings located along the Blackstone River, commercial and retail activity in the downtown district, the fully developed Highland Industrial Park, and the Woonsocket Industrial Park.
+          Enumerated_Domain_Value_Definition_Source: Woonsocket Department of Economic Development and the Cumberland Town Planner function as the source agencies along with support from the RI Commerce Corporation through the RI Enterprise Zone Council.
+    Attribute:
+      Attribute_Label: City_Town
+      Attribute_Definition: Enterprise Zone city or town name and defined as such.
+      Attribute_Definition_Source: RIGIS Municipal Boundary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Enterprise Zone city or town name and defined as such.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: University of Rhode Island Environmental Data Center
+        Contact_Person: Erica Tefft
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 1 Greenhouse Road
+        City: Kingston
+        State_or_Province: RI
+        Postal_Code: 02881
+      Contact_Voice_Telephone: 401-874-5054
+      Contact_Electronic_Mail_Address: erica@edc.uri.edu
+      Contact_Instructions: email preferred
+  Distribution_Liability: This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Esri shapefile
+        File_Decompression_Technique: ZIP
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.rigis.org
+    Fees: No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.
+Metadata_Reference_Information:
+  Metadata_Date: 20150422
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: RI Division of Planning
+        Contact_Person: Christina Delage Baza
+      Contact_Position: GIS Specialist II
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: One Capitol Hill
+        City: Providence
+        State_or_Province: RI
+        Postal_Code: 02908
+        Country: US
+      Contact_Voice_Telephone: 401-222-6481
+      Contact_Electronic_Mail_Address: Christina.Delagebaza@doa.ri.gov
+  Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
